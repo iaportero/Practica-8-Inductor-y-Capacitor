@@ -130,6 +130,8 @@ A la corriente y voltaje efectivos, es también común llamarles "valores medios
 
 http://electronica.ugr.es/~amroldan/asignaturas/curso04-05/ftc/pdf/manual.pdf
 
+http://blogmultisim.blogspot.com/2012/11/como-instalar-multisim-12-en-espanol.html
+
 6.  Descripcion de prerrequsitos y configuracion
 
 *  Instalacion de Multisim
@@ -185,7 +187,7 @@ https://youtu.be/1u6jclsgMT8
 
 Link del archivo generado
 
-
+https://github.com/iaportero/Practica-8-Inductor-y-Capacitor/blob/main/Codigo%20Fuente/Preguntas%20Guia8pdf.pdf
 
 
 
