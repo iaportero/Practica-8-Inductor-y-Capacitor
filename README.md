@@ -170,6 +170,8 @@ Abre Multisim, selecciona el menú Options»Global preferences. Después ve a la
 *  El comportamiento de los capacitores en corriente alterna dependerá de las funciones que describan su comportamiento en un intervalo de tiempo definido.
 En corriente alterna el capacitor se carga y descarga según sea la frecuencia de oscilación.
 
+*  La bobina en corriente alterna se comporta como la resistencia se opone al flujo de la corriente, pero a diferencia de ésta, el valor de esta oposición se llama reactancia inductiva
+
 *  Para el circuito 1, si se aumenta el valor de los capacitores, la corriente se mantendría constante, pero el voltaje disminuiría
 
 *  Para el circuito 2, si se aumenta el valor de los inductores, la corriente disminuiría, y el voltaje se mantendría constante.
