@@ -1,2 +1,2 @@
-# Practica-8-Inductor-y-Capacitor
+# Practica-8
 Integrantes: Bryan Santiago Torres Reyes , Roger Steveen Armas Simbaña , Israel Alejandro Portero Cazares
