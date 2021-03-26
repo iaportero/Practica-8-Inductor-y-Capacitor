@@ -75,7 +75,8 @@ Figura 1
 Figura 2
 
 
-![](https://github.com/iaportero/Practica-8-Inductor-y-Capacitor/blob/main/Imagenes/ima%207.png)
+![](https://github.com/iaportero/Practica-8-Inductor-y-Capacitor/blob/main/Imagenes/ima%2010.png)
+
 
 
 4.-   Preguntas 
