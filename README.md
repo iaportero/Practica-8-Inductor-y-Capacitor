@@ -50,11 +50,16 @@ de 0, 10, 50, 100, 500, 1000 𝐻𝑧. Anote los resultados.
 frecuencia entre los valores 0, 10, 50, 100, 500, 1000 𝐻𝑧. Anote los resultados.
 
 
+![](https://github.com/iaportero/Practica-8-Inductor-y-Capacitor/blob/main/Imagenes/ima%208.png)
+
+
 2.- Construya el circuito mostrado en la Figura 2
 
 Realice las mismas mediciones de los ítems del numeral anterior y presente los resultados.
 
 ![](https://github.com/iaportero/Practica-8-Inductor-y-Capacitor/blob/main/Imagenes/ima%205.png)
+
+![](https://github.com/iaportero/Practica-8-Inductor-y-Capacitor/blob/main/Imagenes/ima%209.png)
 
 
 3.-  Analisis de resultados
